@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
 
-  <img alt="Language" src="https://img.shields.io/badge/IaC-Terraform-blue" />
+  <img alt="Language" src="https://img.shields.io/badge/Lang-TypeScript-blue" />
 
   <img alt="Backend-Framework" src="https://img.shields.io/badge/Backend-Fastify-black" />
 
