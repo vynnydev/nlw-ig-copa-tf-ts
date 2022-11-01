@@ -3,6 +3,9 @@ apps/backend/.env
 apps/backend/node_modules
 apps/web/node_modules
 apps/mobile/node_modules
+apps/mobile/.expo/
+apps/mobile/dist/
+apps/mobile/web-build/
 
 # Local .terraform directories
 **/.terraform/*
