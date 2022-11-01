@@ -4,15 +4,21 @@
 
   <img alt="Language" src="https://img.shields.io/badge/Lang-TypeScript-blue" />
 
-  <img alt="Backend-Framework" src="https://img.shields.io/badge/Backend-Fastify-black" />
+  <img alt="Back-Frame" src="https://img.shields.io/badge/Back--Frame-Fastify-black"/>
 
-  <img alt="Frontend-Stack" src="https://img.shields.io/badge/Frontend-NextJS-black" />
+  <img alt="ORM" src="https://img.shields.io/badge/ORM-Prisma-4c51bf" />
 
-  <img alt="Mobile-Stack" src="https://img.shields.io/badge/Mobile-React--Native-blue" />
+  <img alt="Front-Lib" src="https://img.shields.io/badge/Front--Lib-React-61dafb" />
 
-  <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
+  <img alt="Web-Frame" src="https://img.shields.io/badge/Web--Frame-NestJS-black" />
 
-  <img alt="GCP" src="https://img.shields.io/badge/Cloud-GCP-9cf" />
+  <img alt="Mob-Frame" src="https://img.shields.io/badge/Mob--Frame-React--Native-61dafb" />
+
+  <img alt="Mob-Lib" src="https://img.shields.io/badge/Mob--Lib-Native--Base-50bfc3" />
+
+  <img alt="Terraform-IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
+
+  <img alt="GCP-Cloud" src="https://img.shields.io/badge/Cloud-GCP-9cf" />
 
 </p>
 
