@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer base {
+  body {
+    @apply bg-gray-900;
+    @apply bg-app bg-no-repeat bg-cover
+  }
+}

@@ -2,10 +2,10 @@
 apps/backend/.env
 apps/backend/node_modules
 apps/web/node_modules
-apps/mobile/node_modules
-apps/mobile/.expo/
-apps/mobile/dist/
-apps/mobile/web-build/
+apps/mobile/nlw-copamobile/node_modules
+apps/mobile/nlw-copamobile/.expo/
+apps/mobile/nlw-copamobile/dist/
+apps/mobile/nlw-copamobile/web-build/
 
 # Local .terraform directories
 **/.terraform/*
