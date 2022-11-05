@@ -24,8 +24,4 @@
 
 #### Ignite copa fullstack project based in TypeScript as language, Fastify & Prisma, NextJS for Web, React Native for Mobile & GCP cloud developed through Terraform.
 
-<<<<<<< HEAD
-### IN DEPLOYMENT !!!!
-=======
 ### IN DEPLOYMENT
->>>>>>> ebb6c5841d0ed7bb7a49d7528b3d4817b348c709
